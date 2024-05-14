@@ -1,3 +1,4 @@
-./pre_data
-./preprocessing
-./raw_data
+pre_data
+preprocessing
+raw_data
+*.nii.gz
